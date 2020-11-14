@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/resume-maker-react/static/js/main.ab042d3a.chunk.js",
+    "main.js.map": "/resume-maker-react/static/js/main.ab042d3a.chunk.js.map",
+    "runtime-main.js": "/resume-maker-react/static/js/runtime-main.c846c996.js",
+    "runtime-main.js.map": "/resume-maker-react/static/js/runtime-main.c846c996.js.map",
+    "static/js/2.dd5355e7.chunk.js": "/resume-maker-react/static/js/2.dd5355e7.chunk.js",
+    "static/js/2.dd5355e7.chunk.js.map": "/resume-maker-react/static/js/2.dd5355e7.chunk.js.map",
+    "index.html": "/resume-maker-react/index.html",
+    "static/js/2.dd5355e7.chunk.js.LICENSE.txt": "/resume-maker-react/static/js/2.dd5355e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c846c996.js",
+    "static/js/2.dd5355e7.chunk.js",
+    "static/js/main.ab042d3a.chunk.js"
+  ]
+}
